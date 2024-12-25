@@ -1,0 +1,2 @@
+cython --embed -o shitting.c shitting.py
+cl shitting.c /I "%APPDATA%\..\Local\Programs\Python\Python313\include" /link /LIBPATH:"%APPDATA%\..\Local\Programs\Python\Python313\libs" python313.lib

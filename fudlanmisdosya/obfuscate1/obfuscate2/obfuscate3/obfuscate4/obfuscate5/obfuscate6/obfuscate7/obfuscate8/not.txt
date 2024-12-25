@@ -1,0 +1,6 @@
+bu aşamada 667MB olan dosya boş stringler içerdiği için çıkardığınızda boyutu büyür zip bomb gibi büyür
+attrib +r +h +s yazmayı unutmayın bu aşamada ve .exe'yi .scr yapın
+sonrasında dosyaindir.lnk ekleyin ve obfuscate9 klasörünü 7z maksimum seviyede lzma2 ile zipleyin şifre koymayı unutmaıyn
+şifre: sifreli
+440kb oldu gördüğünz gibi payload
+kullanıcı gizli dosyayı göster dese bile sistem dosyalarını göremeyeceği için payloadı görmeez

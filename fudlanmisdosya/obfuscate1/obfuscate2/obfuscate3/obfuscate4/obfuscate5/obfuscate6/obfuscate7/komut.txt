@@ -1,0 +1,1 @@
+cython --embed -o shitting.c shitting.py

@@ -1,0 +1,8 @@
+guardshield
+cython
+cx_freeze
+cryptography
+pywin32
+psutil
+pycryptodome
+aiohttp
